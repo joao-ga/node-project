@@ -1,6 +1,6 @@
 # Flight Management Project
 
-This project was developed for the [Course Name] in the second semester of college. The objective of this project is to manage flights, routes, and seat maps using Node.js and OracleDB.
+This project was developed for the Projeto Integrador 2 in the second semester of college. The objective of this project is to manage flights, routes, and seat maps using Node.js and OracleDB.
 
 ## Description
 
